@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cojapacze/sketchpad.git"
+    "url": "git+https://github.com/coldcode69/sketchpad.git"
   },
   "keywords": [
     "sketch",
@@ -24,9 +24,9 @@
   "author": "positivestudio.co",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/cojapacze/sketchpad/issues"
+    "url": "https://github.com/coldcode69/sketchpad/issues"
   },
-  "homepage": "https://github.com/cojapacze/sketchpad#readme",
+  "homepage": "https://github.com/coldcode69/sketchpad#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
     "bootstrap": "^4.1.3",
