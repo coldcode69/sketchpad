@@ -1,7 +1,7 @@
 FROM node:latest
 
 
-RUN git clone https://github.com/cojapacze/sketchpad.git
+RUN git clone https://github.com/coldcode69/sketchpad.git
 WORKDIR /sketchpad
 
 RUN npm install
