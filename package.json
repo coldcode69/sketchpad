@@ -46,5 +46,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0",
     "gulp-watch": "^4.3.11"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.10"
   }
 }
